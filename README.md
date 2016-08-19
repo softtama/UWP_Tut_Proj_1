@@ -1,16 +1,18 @@
 # UWP_Tut_Proj_1
-**Windows 10 UWP Tutorial Series: Part 1**
-
-Create and deploy your first UWP app project.
+**Windows 10 UWP Tutorial Series**
 
 ---
 
 Tutorial
 -----
-You can follow my tutorial to create your first UWP app project [here](http://blog.whoisrizkipratama.net/tutorial-aplikasi-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian)
+You can follow my tutorial series here
 
+### Part 1
+Title: **Create and deploy your first UWP app project**<br>
+[Tutorial](http://blog.whoisrizkipratama.net/tutorial-aplikasi-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
 
-How to sideload apps
+<br><br>
+How to sideload apps?
 -----
 1. Right click at file named **Add-AppDevPackage.ps1**.
 2. Select **"Run with PowerShell"**.
