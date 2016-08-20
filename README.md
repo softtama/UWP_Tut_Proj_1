@@ -1,17 +1,16 @@
 # UWP_Tut_Proj_1
 **Windows 10 UWP Tutorial Series**
 
----
-
+<br><br>
 Tutorial
 -----
 This project is intended to accompany the tutorial that I've created. You can follow my tutorial series below.
 
-### Part 1
+### Part 1 (UWP_Tut_Proj_1)
 Title: **Create and deploy your first UWP app project**<br>
 [Tutorial](http://blog.whoisrizkipratama.net/tutorial-aplikasi-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
 
-### Part 2
+### Part 2 (UWP_Tut_Proj_1.1)
 Title: **Modify app description and visual assets**<br>
 ~~Tutorial~~ | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
 
