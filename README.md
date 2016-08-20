@@ -36,6 +36,8 @@ How to sideload apps?
 10. Enjoy the app on your phone.
 
 <br><br>
-Author
+Authors and Licenses
 -----
-Windows 10 UWP Tutorial Series are created and authored by [Rizki Pratama](https://twitter.com/softtama)
+Windows 10 UWP Tutorial Series are created and authored by [Rizki Pratama](https://twitter.com/softtama)<br>
+Copyright © 2016 Rizki Pratama<br>
+MIT License
