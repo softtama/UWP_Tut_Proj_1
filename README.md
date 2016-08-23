@@ -8,11 +8,11 @@ This project is intended to accompany the tutorial that I've created. You can fo
 
 ### Part 1 (UWP_Tut_Proj_1)
 Title: **Create and deploy your first UWP app project**<br>
-[Tutorial](http://blog.whoisrizkipratama.net/tutorial-aplikasi-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
+[Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
 
 ### Part 2 (UWP_Tut_Proj_1.1)
-Title: **Modify app description and visual assets**<br>
-~~Tutorial~~ | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
+Title: **Modify app name, description, and its visual assets**<br>
+[Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-2-modify-app-name-description-visual-assets/) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
 
 <br><br>
 How to sideload apps?
