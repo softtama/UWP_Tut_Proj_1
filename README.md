@@ -5,7 +5,7 @@
 <br><br>
 This branch project is intended to accompany the tutorial Part 2 that I've created.
 
-Tutorial link: [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-2-modify-app-name-description-visual-assets/) <br>
+Tutorial link: [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-2-modify-app-name-description-visual-assets/) (Indonesian) <br>
 Project download link: [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
 
 <br><br>
