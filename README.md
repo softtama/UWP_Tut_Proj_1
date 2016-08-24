@@ -6,13 +6,17 @@ Tutorial
 -----
 This project is intended to accompany the tutorial that I've created. You can follow my tutorial series below.
 
-### Part 1 (UWP_Tut_Proj_1)
-Title: **Create and deploy your first UWP app project**<br>
-[Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
+- **Part 1 - Create and deploy your first UWP app project**<br>
+  Branch: **master (UWP_Tut_Proj_1)**<br>
+  [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-1-create-deploy-first-windows-10-uwp-app) (Indonesian) | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/master.zip)
 
-### Part 2 (UWP_Tut_Proj_1.1)
-Title: **Modify app name, description, and its visual assets**<br>
-[Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-2-modify-app-name-description-visual-assets/) (Indonesian) | [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
+- **Part 2 - Modify app name, description, and its visual assets**<br>
+  Branch: **UWP_Tut_Proj_1.1**<br>
+  [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-2-modify-app-name-description-visual-assets/) (Indonesian) | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
+
+- **Part 3 - Add control elements (text box, button, etc.)**<br>
+  Branch: **UWP_Tut_Proj_1.2**<br>
+  ~~Tutorial~~ | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
 
 <br><br>
 How to sideload apps?
