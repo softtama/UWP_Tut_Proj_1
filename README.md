@@ -1,11 +1,12 @@
-# Branch: UWP_Tut_Proj_1.1
-**Windows 10 UWP Tutorial Series: Part 2**<br>
-**Modify app name, description, and its visual assets**
+# Branch: UWP_Tut_Proj_1.2
+## Add control elements (text box, button, etc.)
+**Windows 10 UWP Tutorial Series: Part 3**
 
-This branch project is intended to accompany the tutorial Part 2 that I've created.
+<br><br>
+This branch project is intended to accompany the tutorial Part 3 that I've created.
 
-Tutorial link: ~~Tutorial~~ <br>
-Project download link: [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.1.zip)
+Tutorial link: ~~Tutorial~~<br>
+Project download link: [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
 
 <br><br>
 Authors and Licenses
