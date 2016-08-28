@@ -5,7 +5,7 @@
 <br><br>
 This branch project is intended to accompany the tutorial Part 3 that I've created.
 
-Tutorial link: ~~Tutorial~~<br>
+Tutorial link: [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-3-add-control-elements/) (Indonesian)<br>
 Project download link: [Download](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
 
 <br><br>
