@@ -16,7 +16,7 @@ This project is intended to accompany the tutorial that I've created. You can fo
 
 - **Part 3 - Add control elements (text box, button, etc.)**<br>
   Branch: **UWP_Tut_Proj_1.2**<br>
-  ~~Tutorial~~ | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
+  [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-3-add-control-elements/) (Indonesian) | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
 
 <br><br>
 How to sideload apps?
