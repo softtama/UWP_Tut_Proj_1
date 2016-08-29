@@ -25,6 +25,38 @@ namespace UWP_Tut_Proj_1
         public MainPage()
         {
             this.InitializeComponent();
+
+            textBox.TextChanging += textBox_TextChanging;
+            button.Click += button_Click;
+        }
+
+        public void textBox_TextChanging(TextBox sender, TextBoxTextChangingEventArgs args)
+        {
+            if (sender.Text.Contains("bold"))
+            {
+                sender.FontWeight = Windows.UI.Text.FontWeights.Bold;
+            }
+
+            if (sender.Text.Equals("softtama"))
+            {
+                passwordBox.IsEnabled = true;
+                sender.BorderBrush = new SolidColorBrush(Windows.UI.Colors.Green);
+            }
+            else
+            {
+                passwordBox.IsEnabled = false;
+            }
+        }
+
+        public void button_Click(object sender, RoutedEventArgs args)
+        {
+            if (!textBox.Text.Equals(""))
+            {
+                string username = textBox.Text,
+                       rememberMe = (bool) checkBox.IsChecked ? "Yes" : "No";
+
+                textBlock.Text = "Username: " + username + "\n\n" + "Remember me?: " + rememberMe;
+            }
         }
     }
 }
