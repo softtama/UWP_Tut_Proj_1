@@ -18,6 +18,10 @@ This project is intended to accompany the tutorial that I've created. You can fo
   Branch: **UWP_Tut_Proj_1.2**<br>
   [Tutorial](http://blog.whoisrizkipratama.net/tutorial-uwp-3-add-control-elements/) (Indonesian) | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.2.zip)
 
+- **Part 4 - Add event handlers to control element**<br>
+  Branch: **UWP_Tut_Proj_1.3**<br>
+  ~~Tutorial~~ | [Download Project](https://github.com/softtama/UWP_Tut_Proj_1/archive/UWP_Tut_Proj_1.3.zip)
+
 <br><br>
 How to sideload apps?
 -----
